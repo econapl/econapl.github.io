@@ -79,3 +79,16 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+/* SSE seal next to the site title */
+.masthead__brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+}
+
+.sse-seal {
+  width: 2.4em;
+  height: 2.4em;
+  flex-shrink: 0;
+}
