@@ -1,10 +1,10 @@
 # Links in the header of the website, in order.
-# To add the CV: put the PDF in /files/ and uncomment the CV entry below,
-# adjusting the file name to match.
+# To update the CV, replace /files/Ljungqvist_CV.pdf with the new PDF
+# (same file name).
 
 main:
-  # - title: "CV"
-  #   url: /files/Ljungqvist_CV.pdf
+  - title: "CV"
+    url: /files/Ljungqvist_CV.pdf
 
   - title: "SSE faculty page"
     url: https://research.hhs.se/esploro/profile/alexander_ljungqvist/overview
